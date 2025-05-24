@@ -16,7 +16,7 @@ Supports dynamic field registration, localized querying, and transparent field a
 ## 🚀 Installation
 
 ```bash
-pip install bc-model-translator
+pip install bc-django-modeltranslator
 ```
 
 Add the app to INSTALLED_APPS:
@@ -29,7 +29,7 @@ Add the app to INSTALLED_APPS:
 ```python
 INSTALLED_APPS = [
     ...
-    "bc_modeltranslater",
+    "bc_modeltranslator",
 ]
 ```
 
